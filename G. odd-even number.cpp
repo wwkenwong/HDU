@@ -20,7 +20,7 @@ int main(){
     cin>>kase;
     int kasecounter=1;
     while(kase--){
-        cout<<"Case #"<<kasecounter++<<":\n ";
+        cout<<"Case #"<<kasecounter++<<": ";
         int l,r;
         cin>>l>>r;
         int ans=0;
@@ -70,8 +70,11 @@ int main(){
                 }
             }
             if(!endgame){
-                cout<<evencounter<<" "<<oddcounter<<" "<<i<<"\n";
-                if(!iseven(evencounter)){
+                //cout<<evencounter<<" "<<oddcounter<<" "<<i<<"\n";
+                if(evencounter==0){
+                    if(iseven(oddcounter)){ans++;}
+                }
+                else if(!iseven(evencounter)){
                     if(iseven(oddcounter)){ans++;}
                 }
                
