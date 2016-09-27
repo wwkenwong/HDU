@@ -24,4 +24,6 @@ DIJ http://blog.csdn.net/acmore_xiong/article/details/52215492
 
 http://codeforces.com/problemset/problem/55/D
 
+http://vjudge.net/contest/70324;jsessionid=C0193BFC3D19C072EDD2C4798302A5E4#overview
 
+template http://blog.csdn.net/dslovemz/article/details/8540340
