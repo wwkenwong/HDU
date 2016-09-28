@@ -27,3 +27,11 @@ http://codeforces.com/problemset/problem/55/D
 http://vjudge.net/contest/70324;jsessionid=C0193BFC3D19C072EDD2C4798302A5E4#overview
 
 template http://blog.csdn.net/dslovemz/article/details/8540340
+
+http://blog.csdn.net/to_be_better/article/details/50658392
+
+http://blog.csdn.net/column/details/acmoj.html
+
+http://praveendhinwacoding.blogspot.hk/2013/06/digit-dynamic-programming-problem.html
+
+http://stackoverflow.com/questions/22394257/how-to-count-integers-between-large-a-and-b-with-a-certain-property/22394258#22394258
