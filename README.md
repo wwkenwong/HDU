@@ -35,3 +35,9 @@ http://blog.csdn.net/column/details/acmoj.html
 http://praveendhinwacoding.blogspot.hk/2013/06/digit-dynamic-programming-problem.html
 
 http://stackoverflow.com/questions/22394257/how-to-count-integers-between-large-a-and-b-with-a-certain-property/22394258#22394258
+
+区间dp总结篇 http://www.cnblogs.com/ziyi--caolu/p/3236035.html
+
+https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/
+
+http://blog.csdn.net/piaocoder/article/details/48464269
