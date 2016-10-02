@@ -41,3 +41,7 @@ http://stackoverflow.com/questions/22394257/how-to-count-integers-between-large-
 https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-string-searching-algorithms/
 
 http://blog.csdn.net/piaocoder/article/details/48464269
+
+树形DP  http://blog.csdn.net/txl199106/article/details/45372337
+
+动态规划 入门学习http://blog.csdn.net/txl199106/article/details/27969369
