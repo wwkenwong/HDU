@@ -21,8 +21,6 @@ int main(){
 	cin>>t;
 	kase=1;
 	while(t--){
-		memset(a,0,sizeof(a));
-		memset(b,0,sizeof(b));
 		int n;
 		cin>>n;
 		for(int i=1;i<n+1;i++){
@@ -31,20 +29,22 @@ int main(){
 		for(int i=1;i<n+1;i++){
 			cin>>b[i];
 		}
-		int up=b[n]+(a[n]*a[n-1]);
+		int up=b[n];
 		int down=a[n];
-		for(int i=n-1;i-1>0;i--){
+		for(int i=n-1;i>0;i--){
+			
+			up+=a[i]*down;
+			down*=b[i];
 			swap(up,down);
-			up=(a[i-1]*down)+(b[i]*up);
 			
 		}
 	
-		swap(up,down);
-		up=b[1]*up;
+	
 		int holder=gcd(up,down);
 		up/=holder;
 		down/=holder;
 		cout<<"Case #"<<kase++<<": "<<up<<" "<<down<<"\n";
 	}
 	return 0;
+}
 }
